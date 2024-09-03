@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 Hi there, I'm AugustCoder
+###### formerly foliagecanine
 
-<!--
-**foliagecanine/foliagecanine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently working on:
+- ❓ VR support for a major project, TBA
+- ⛓️ A modular 3D dungeon editor for Unity (may or may not be released)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My projects and contributions:
+- 🥽 [Half-Life 2 VR Mod](https://halflife2vr.com), a virtual reality modification for the award-winning game Half-Life 2 (mod is available on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/))
+- 💿 [TritiumOS](https://github.com/foliagecanine/tritium-os), a 32-bit hobby operating system
+- ⌚ [Pocuter App Compiler](https://foliagecanine/Pocuter-App-Compiler), a companion tool for developing apps for the Pocuter programmable wrist watch
+- 🎲 [3D JS](https://editor.p5js.org/foliagecanine/sketches/UBl8X1PQ2), a canvas-based (non WebGL/WebGPU) raster 3D renderer in JavaScript, written to learn graphics programming
+- ⚙️ [6502 CPU Emulator](https://foliagecanine/6502Emulator), an 6502 CPU emulator written in C++
+- 🦖 [Dino Jump game for Ben Eater 6502](https://github.com/foliagecanine/my6502), a reimagining of the Chrome dino jump game written in assembly for Ben Eater's 6502 project
