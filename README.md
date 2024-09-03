@@ -6,7 +6,7 @@ Currently working on:
 - ⛓️ A modular 3D dungeon editor for Unity (may or may not be released)
 
 My projects and contributions:
-- 🥽 [Half-Life 2 VR Mod](https://halflife2vr.com), a virtual reality modification for the award-winning game Half-Life 2 (mod is available on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/))
+- 🥽 [Half-Life 2 VR Mod](https://halflife2vr.com), a game modification which adds virtual reality support to Half-Life 2 (mod is available on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/))
 - 💿 [TritiumOS](https://github.com/foliagecanine/tritium-os), a 32-bit hobby operating system
 - ⌚ [Pocuter App Compiler](https://foliagecanine/Pocuter-App-Compiler), a companion tool for developing apps for the Pocuter programmable wrist watch
 - 🎲 [3D JS](https://editor.p5js.org/foliagecanine/sketches/UBl8X1PQ2), a canvas-based (non WebGL/WebGPU) raster 3D renderer in JavaScript, written to learn graphics programming
