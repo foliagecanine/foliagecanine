@@ -8,6 +8,7 @@ Currently working on:
 My projects and contributions:
 - 🥽 [Half-Life 2 VR Mod](https://halflife2vr.com), a game modification which adds virtual reality support to Half-Life 2 (mod is available on [Steam](https://store.steampowered.com/app/658920/HalfLife_2_VR_Mod/))
 - 💿 [TritiumOS](https://github.com/foliagecanine/tritium-os), a 32-bit hobby operating system
+- 🌐 [Graph Editor](https://editor.p5js.org/foliagecanine/sketches/XH4vdNcTo), a tool to sketch out graphs (the graph theory kind)
 - ⌚ [Pocuter App Compiler](https://github.com/foliagecanine/Pocuter-App-Compiler), a companion tool for developing apps for the Pocuter programmable wrist watch
 - 🎲 [3D JS](https://editor.p5js.org/foliagecanine/sketches/UBl8X1PQ2), a canvas-based (non WebGL/WebGPU) raster 3D renderer in JavaScript, written to learn graphics programming
 - ⚙️ [6502 CPU Emulator](https://github.com/foliagecanine/6502Emulator), an 6502 CPU emulator written in C++
