@@ -10,6 +10,6 @@ My projects and contributions:
 - 💿 [TritiumOS](https://github.com/foliagecanine/tritium-os), a 32-bit hobby operating system
 - 🌐 [Vertexas](https://editor.p5js.org/foliagecanine/sketches/XH4vdNcTo), a tool to sketch out graphs (the graph theory kind)
 - ⌚ [Pocuter App Compiler](https://github.com/foliagecanine/Pocuter-App-Compiler), a companion tool for developing apps for the Pocuter programmable wrist watch
-- 🎲 [3D JS](https://editor.p5js.org/foliagecanine/sketches/UBl8X1PQ2), a canvas-based (non WebGL/WebGPU) raster 3D renderer in JavaScript, written to learn graphics programming
+- 🎲 [3D JS](https://editor.p5js.org/foliagecanine/sketches/UBl8X1PQ2), a JavaScript canvas-based raster 3D software renderer, written to learn graphics programming
 - ⚙️ [6502 CPU Emulator](https://github.com/foliagecanine/6502Emulator), an 6502 CPU emulator written in C++
 - 🦖 [Dino Jump game for Ben Eater 6502](https://github.com/foliagecanine/my6502), a reimagining of the Chrome dino jump game written in assembly for Ben Eater's 6502 project
