@@ -2,7 +2,8 @@
 ###### formerly foliagecanine
 
 Currently working on:
-- ❓ VR support for a major project, TBA
+- 🚂 [Strata Source Engine](https://stratasource.org/) for [Portal 2 Community Edition](https://p2ce.org)
+- ❓ Some VR projects
 - ⛓️ A modular 3D dungeon editor for Unity (may or may not be released)
 
 My projects and contributions:
